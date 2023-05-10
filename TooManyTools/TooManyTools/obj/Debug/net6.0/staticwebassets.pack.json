@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Projects\\dotnet\\TooManyTools\\TooManyTools\\TooManyTools\\wwwroot\\images\\GeneralGrevoius.jpg",
+      "PackagePath": "staticwebassets\\images\\GeneralGrevoius.jpg"
+    },
+    {
       "Id": "C:\\Projects\\dotnet\\TooManyTools\\TooManyTools\\TooManyTools\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vOWO/lDjSHOm4ImNGmrsdc1XKMrjk5lB0fw6AzGoPp8=",
+  "Hash": "zYAYA2PvZFEIQq0Df1Mp/cclhGRYyQEwSRoA4aavWW0=",
   "Source": "TooManyTools",
   "BasePath": "_content/TooManyTools",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Projects\\dotnet\\TooManyTools\\TooManyTools\\TooManyTools\\wwwroot\\images\\GeneralGrevoius.jpg",
+      "SourceId": "TooManyTools",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\dotnet\\TooManyTools\\TooManyTools\\TooManyTools\\wwwroot\\",
+      "BasePath": "_content/TooManyTools",
+      "RelativePath": "images/GeneralGrevoius.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\GeneralGrevoius.jpg"
     },
     {
       "Identity": "C:\\Projects\\dotnet\\TooManyTools\\TooManyTools\\TooManyTools\\wwwroot\\js\\site.js",
