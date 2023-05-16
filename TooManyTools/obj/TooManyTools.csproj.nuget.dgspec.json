@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\dotnet\\TooManyTools\\TooManyTools\\TooManyTools\\TooManyTools.csproj": {}
+    "C:\\Projects\\dotnet\\TooManyTools\\TooManyTools\\TooManyTools.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\dotnet\\TooManyTools\\TooManyTools\\TooManyTools\\TooManyTools.csproj": {
+    "C:\\Projects\\dotnet\\TooManyTools\\TooManyTools\\TooManyTools.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\dotnet\\TooManyTools\\TooManyTools\\TooManyTools\\TooManyTools.csproj",
+        "projectUniqueName": "C:\\Projects\\dotnet\\TooManyTools\\TooManyTools\\TooManyTools.csproj",
         "projectName": "TooManyTools",
-        "projectPath": "C:\\Projects\\dotnet\\TooManyTools\\TooManyTools\\TooManyTools\\TooManyTools.csproj",
+        "projectPath": "C:\\Projects\\dotnet\\TooManyTools\\TooManyTools\\TooManyTools.csproj",
         "packagesPath": "C:\\Users\\Kamil\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\dotnet\\TooManyTools\\TooManyTools\\TooManyTools\\obj\\",
+        "outputPath": "C:\\Projects\\dotnet\\TooManyTools\\TooManyTools\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
