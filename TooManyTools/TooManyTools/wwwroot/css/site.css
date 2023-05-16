@@ -17,7 +17,7 @@ body {
   margin-bottom: 60px;
 }
 
-privacy-police-info {
+.privacy-police-info {
     font-size: 12px;
     position: fixed;
     bottom: 0;
@@ -28,5 +28,6 @@ privacy-police-info {
     padding: 5px 0;
 }
 
-privacy-police-btn {
+.privacy-police-btn {
+    font-size: 11px;
 }
